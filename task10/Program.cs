@@ -1,4 +1,5 @@
-﻿void printSecondNumber (int number)
+﻿// Вывести на экран вторую цифру заданного трехзначного числа
+void printSecondNumber (int number)
 {
     int secondNumber = number / 10 % 10;
     Console.WriteLine (number + " -> " + secondNumber);
