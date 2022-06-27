@@ -1,33 +1,4 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-void thirdNumber (int number)
+﻿void thirdNumber (int number)
 {
  if (number / 100 > 1)
         {
