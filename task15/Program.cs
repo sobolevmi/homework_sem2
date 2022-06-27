@@ -1,4 +1,5 @@
-﻿void dayOfTheWeek (int number)
+﻿// Опредление того, является ли день недели выходным, по его порядковой цифре
+void dayOfTheWeek (int number)
 {
     if (number >= 1 & number < 6)
     {
