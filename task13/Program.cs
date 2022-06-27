@@ -1,4 +1,5 @@
-﻿void thirdNumber (int number)
+﻿// Выведение третьей цифры любого введенного числа
+void thirdNumber (int number)
 {
  if (number / 100 > 1)
         {
